@@ -12,11 +12,10 @@ The Parkinson disease contribute up to 45% of sudden deaths. So it is very impor
 The Algorithms used are : 
 
 	* RandomForestClassifier
-  * MLP in Deep Learning
-  
+  	* MLP in Deep Learning
+	  
 
 > Developed by: [Kanishk Sharma]('github.com/kanishksh4rma')
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
-
