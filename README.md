@@ -19,3 +19,4 @@ The Algorithms used are :
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
+
