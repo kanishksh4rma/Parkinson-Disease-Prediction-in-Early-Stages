@@ -49,10 +49,9 @@ The Algorithms used are :
 
 	* RandomForestClassifier
   	* MLP in Deep Learning
-	  
----
+  
 
 > Developed by: [Kanishk Sharma]('github.com/kanishksh4rma')
-
+---
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)
