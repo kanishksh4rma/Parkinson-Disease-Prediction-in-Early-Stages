@@ -50,7 +50,6 @@ The Algorithms used are :
 	* RandomForestClassifier
   	* MLP in Deep Learning
   
-
 > Developed by: [Kanishk Sharma]('github.com/kanishksh4rma')
 ---
 
