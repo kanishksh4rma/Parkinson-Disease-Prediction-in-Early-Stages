@@ -13,7 +13,7 @@
 
 ## Objectives
 
-### >  *Machine learning techniques* can be used to overcome these drawbacks which are cause due to the high dimensions of the data. So in this project I am using machine learning algorithms to predict the chances of getting cancer.
+> ###  *Machine learning techniques* can be used to overcome these drawbacks which are cause due to the high dimensions of the data. So in this project I am using machine learning algorithms to predict the chances of getting cancer.
 ---
 
 
