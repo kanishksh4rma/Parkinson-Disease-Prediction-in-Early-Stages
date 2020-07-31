@@ -53,10 +53,11 @@ The Algorithms used are :
  
  ## Accuracy : 
  
- ![accuracy](/screenshots/accuracy)
+ ![accuracy](/screenshots/accuracy.png)
 
 ---
 
 > Developed by: [Kanishk Sharma](github.com/kanishksh4rma)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)
+
