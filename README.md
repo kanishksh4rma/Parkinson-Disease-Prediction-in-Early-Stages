@@ -47,10 +47,16 @@ git clone https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early
 
 The Algorithms used are : 
 
+	* MultiLayerPerceptrons (MLP) in Deep Learning
 	* RandomForestClassifier
-  	* MLP in Deep Learning
-  
-> Developed by: [Kanishk Sharma]('github.com/kanishksh4rma')
+ ---
+ 
+ ## Accuracy : 
+ 
+ ![accuracy](/screenshots/accuracy)
+
 ---
+
+> Developed by: [Kanishk Sharma](github.com/kanishksh4rma)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)
